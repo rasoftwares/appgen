@@ -7,6 +7,5 @@
 
 
 ## Dependent Modules
-
-npm install underscore
-npm install request
+* npm install underscore
+* npm install request
